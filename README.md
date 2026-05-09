@@ -1,7 +1,7 @@
-Uts_Teknik_kompilasi
+`Uts_Teknik_kompilasi
 Nama : Tatang Patudin 
 Nim : 231011402482
-Kelas: 06TPLE006
+Kelas: 06TPLE006`
 
 Tugas Mandiri: Implementasi Fase-Fase Kompilator
 Mata Kuliah: Teknik Kompilasi
